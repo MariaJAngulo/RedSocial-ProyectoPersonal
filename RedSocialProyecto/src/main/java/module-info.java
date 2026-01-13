@@ -7,4 +7,6 @@ module co.edu.uniquindio.proyectopersonal.redsocialproyecto {
 
     opens co.edu.uniquindio.proyectopersonal.redsocialproyecto to javafx.fxml;
     exports co.edu.uniquindio.proyectopersonal.redsocialproyecto;
+    opens co.edu.uniquindio.proyectopersonal.redsocialproyecto.model;
+    exports co.edu.uniquindio.proyectopersonal.redsocialproyecto.model;
 }

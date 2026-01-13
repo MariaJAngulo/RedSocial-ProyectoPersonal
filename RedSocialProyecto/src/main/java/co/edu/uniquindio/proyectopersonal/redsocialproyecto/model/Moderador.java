@@ -22,6 +22,6 @@ public class Moderador {
         ListaEnlazada listaEnlazada = new ListaEnlazada<>;
         return listaEnlazada;
     }
-    
+
 
 }
